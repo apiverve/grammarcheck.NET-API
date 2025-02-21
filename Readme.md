@@ -32,9 +32,9 @@ From within Visual Studio:
 
 1. Open the Solution Explorer.
 2. Right-click on a project within your solution.
-3. Click on Manage NuGet Packages...
+3. Click on Manage NuGet Packages..
 4. Click on the Browse tab and search for "APIVerve.API.GrammarCheck".
-5. Click on the APIVerve.API.GrammarCheck package, select the appropriate version in the right-tab and click Install.
+5. Click on the APIVerve.API.GrammarCheck package, click Install.
 
 
 ---
@@ -71,7 +71,7 @@ Using the API client, you can perform requests to the API.
 
 ```
 var queryOptions = new GrammarCheckQueryOptions {
-  text = "The the pig snorted when I saW it on the barn gate. I was a little mad becuase it woke up my pupppppy"
+  text = "The the pig snorted when I saw it on the barn gate. I was a little mad becuase it woke up my pupppppy"
 };
 ```
 
@@ -123,7 +123,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
